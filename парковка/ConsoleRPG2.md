@@ -219,3 +219,9 @@ class Program
 <picture>
   <img src="https://github.com/R0n1x67/noviy_merin/blob/main/%D0%BF%D0%B0%D1%80%D0%BA%D0%BE%D0%B2%D0%BA%D0%B0/6.jpg">
 </picture>
+<picture>
+  <img src="https://github.com/R0n1x67/noviy_merin/blob/main/%D0%BF%D0%B0%D1%80%D0%BA%D0%BE%D0%B2%D0%BA%D0%B0/7.jpg">
+</picture>
+<picture>
+  <img src="https://github.com/R0n1x67/noviy_merin/blob/main/%D0%BF%D0%B0%D1%80%D0%BA%D0%BE%D0%B2%D0%BA%D0%B0/8.jpg">
+</picture>
